@@ -1,2 +1,3 @@
 # AccountForm
-Created with CodeSandbox
+
+Egyszerű fiók létrehozása űrlap, JavaScript validációval.
